@@ -265,8 +265,7 @@ print(d)      # {'b': 2}
 * Sets son clave para eliminar duplicados y operaciones matemáticas
 * Tuplas se usan para datos constantes y claves de diccionario
 
-Este documento está pensado para **crecer**: puedes añadir `collections.deque`, `Counter`, `defaultdict`, etc.
-
+Este documento está pensado para **crecer**
 ---
 
 ✍️ *Autor: Alexander*
